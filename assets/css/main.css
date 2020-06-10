@@ -426,7 +426,7 @@ input, select, textarea {
 				#main .item.intro p {
 					font-size: 1.25em;
 					line-height: 1.5em;
-					margin: 0.5em 0 0 0;
+					margin: 0.4em 0 0 0;
 					opacity: 0.65;
 				}
 
@@ -528,7 +528,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			#main .item {
-				height: 16em;
+				height: 18em;
 			}
 
 				#main .item.span-0 {
