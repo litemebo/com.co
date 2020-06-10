@@ -531,6 +531,10 @@ input, select, textarea {
 				height: 14em;
 			}
 
+				#main .item.span-0 {
+					width: 13em;
+				}
+
 				#main .item.span-1 {
 					width: 17em;
 				}
@@ -540,11 +544,11 @@ input, select, textarea {
 				}
 
 				#main .item.span-3 {
-					width: 34em;
+					width: 29em;
 				}
 
 				#main .item.span-4 {
-					width: 28em;
+					width: 34em;
 				}
 
 		}
