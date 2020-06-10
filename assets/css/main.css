@@ -543,6 +543,10 @@ input, select, textarea {
 					width: 34em;
 				}
 
+				#main .item.span-4 {
+					width: 30em;
+				}
+
 		}
 
 		@media screen and (max-width: 736px) {
