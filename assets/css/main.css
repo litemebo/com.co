@@ -528,7 +528,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			#main .item {
-				height: 14em;
+				height: 15em;
 			}
 
 				#main .item.span-0 {
@@ -536,11 +536,11 @@ input, select, textarea {
 				}
 
 				#main .item.span-1 {
-					width: 18em;
+					width: 19em;
 				}
 
 				#main .item.span-2 {
-					width: 23.5em;
+					width: 23em;
 				}
 
 				#main .item.span-3 {
@@ -548,7 +548,7 @@ input, select, textarea {
 				}
 
 				#main .item.span-4 {
-					width: 32em;
+					width: 31em;
 				}
 
 		}
