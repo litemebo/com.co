@@ -1807,6 +1807,12 @@ input, select, textarea {
 			margin: 0 1.5em 0 0;
 		}
 
+		.author .ltmb {
+			border-radius: 10%;
+			display: block;
+		/*	width: 4em; */
+		}
+
 		.author img {
 			border-radius: 100%;
 			display: block;
