@@ -3152,6 +3152,7 @@ input, select, textarea {
 			height: inherit;
 			line-height: inherit;
 			padding: 0 0 0 1.5em;
+			vertical-align: middle;
 			white-space: nowrap;
 		}
 
