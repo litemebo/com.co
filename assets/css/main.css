@@ -3349,7 +3349,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			#wrapper {
-				padding: 0em;
+				padding: 1em;
 				/* GEMB padding: 3em; */
 			}
 
