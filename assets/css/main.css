@@ -3349,8 +3349,8 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			#wrapper {
-				padding: 1em;
-				/* GEMB padding: 1em; */
+				padding: 0,25em;
+				/* GEMB padding: 3em; */
 			}
 
 		}
