@@ -3350,7 +3350,7 @@ input, select, textarea {
 
 			#wrapper {
 				padding: 1em;
-				/* GEMB padding: 3em; */
+				/* GEMB padding: 1em; */
 			}
 
 		}
@@ -3366,8 +3366,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#wrapper {
-				/* GEMB padding: 1.5em; */
-				padding: 1em;
+				padding: 1.5em;
 			}
 
 		}
