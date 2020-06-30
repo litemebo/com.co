@@ -3349,9 +3349,15 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			#wrapper {
+				padding: 1.5em;
+				/* GEMB padding: 1em; */
+			}
+			#wrapper-training {
 				padding: 0em;
 				/* GEMB padding: 1em; */
 			}
+
+
 
 		}
 
