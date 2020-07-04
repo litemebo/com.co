@@ -2030,7 +2030,7 @@ ul.icons {
     width: 100%;
     z-index: 1; }
   #banner:after {
-    background: linear-gradient(135deg, #F7FF47 0%, #ce1b28 84%); /* ce1b28 111111 */
+    background: linear-gradient(135deg, #000000 0%, #848484 84%); /* F7FF47 ce1b28 111111 */
     content: ' ';
     display: block;
     height: 100%;
